@@ -15,11 +15,11 @@ Guild Network is a short (30-minute epoch) network - similar to testnet, but com
 - **Others..**  
 There are other smaller-scale utility scripts that include building of core components from source for individual components, setting up environment pre-requisites, etc. You can read about details as you navigate through homepage starting [here](https://cardano-community.github.io/guild-operators).  
 
-!!! note
+::: note
 
   Please ensure to read the disclaimers on [homepage](https://cardano-community.github.io/guild-operators) before continuing
 
-!!!
+:::
 
 ### Setting Up Pre-Requisites..
 
